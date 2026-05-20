@@ -1,1 +1,3 @@
-{"name":"lab-scheduler-full","dependencies":{"qrcode":"^1.5.3"}}
+{
+  "name": "lab-scheduler"
+}
