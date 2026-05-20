@@ -1,3 +1,3 @@
-export default function handler(req, res) {
-  res.json([{ time: '09:00', room: 'Room 1', station: 1, name: 'Demo User' }]);
+export default async function (req, res) {
+  res.json([{ title: 'Room1-S1 Demo', start: new Date().toISOString() }]);
 }

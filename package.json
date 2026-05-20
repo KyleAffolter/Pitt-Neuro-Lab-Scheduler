@@ -1,4 +1,1 @@
-{
-  "name": "lab-scheduler",
-  "version": "1.0.0"
-}
+{"name":"lab-scheduler-full","dependencies":{"qrcode":"^1.5.3"}}
