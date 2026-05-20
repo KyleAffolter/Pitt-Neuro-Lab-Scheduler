@@ -1,3 +1,6 @@
 {
-  "name": "lab-scheduler"
+  "name": "lab-scheduler",
+  "scripts": {
+    "build": "echo 'no build needed'"
+  }
 }
